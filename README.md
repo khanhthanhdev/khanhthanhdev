@@ -6,6 +6,10 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -14,45 +18,21 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
 &nbsp;
-<span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=000000" alt="Next.js logo" title="Next.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" alt="Vite logo" title="Vite" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=00599C" alt="Svelte logo" title="Svelte" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=319795" alt="Django logo" title="Django" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=000000" alt="Flask logo" title="Flask" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458" alt="Pandas logo" title="Pandas" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/NumPy-282C34?logo=numpy&logoColor=009688" alt="NumPy logo" title="NumPy" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" alt="Canva logo" title="Canva" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Photoshop-282C34?logo=adobephotoshop&logoColor=31A88F" alt="Photoshop logo" title="Photoshop" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=00599C" alt="Svelte logo" title="Svelte" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=5391FE" alt="PowerShell logo" title="PowerShell" height="25" /></span>
 &nbsp;
 <br>
 
