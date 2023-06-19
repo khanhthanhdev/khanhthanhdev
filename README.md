@@ -32,7 +32,7 @@
 <span><img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458" alt="Pandas logo" title="Pandas" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" alt="Canva logo" title="Canva" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Photoshop-282C34?logo=adobephotoshop&logoColor=31A88F" alt="Photoshop logo" title="Photoshop" height="25" /></span>
+
 &nbsp;
 <br>
 
