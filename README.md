@@ -30,7 +30,7 @@
     <br>
   </a>
   <a href="#" title="Khanhthanhdev">
-    <img  width="400" src="https://stat-count.vercel.app/?user=khanhthanhdev&theme=tokyonight&hide_border=false">
+    <img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=khanhthanhdev&theme=tokyonight&hide_border=false">
     <br>
   </a>
   <a href="#" title="Khanhthanhdev">
