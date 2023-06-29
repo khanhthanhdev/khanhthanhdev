@@ -26,7 +26,7 @@
 <br>
 <div align=center>
   <a href="#" title="Khanhthanhdev">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=khanhthanhdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/>
+    <img width="400" src="https://stat-count.vercel.app/api?username=khanhthanhdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/>
     <br>
   </a>
   <a href="#" title="Khanhthanhdev">
@@ -34,7 +34,7 @@
     <br>
   </a>
   <a href="#" title="Khanhthanhdev">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhthanhdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+    <img width="400" src="https://stat-count.vercel.app/api/top-langs/?username=khanhthanhdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
   </a>
 </div>
 
