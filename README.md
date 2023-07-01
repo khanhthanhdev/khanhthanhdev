@@ -25,17 +25,17 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Khanhthanhdev">
+<!--   <a href="#" title="Khanhthanhdev">
     <img width="400" src="https://stat-count.vercel.app/api?username=khanhthanhdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/>
     <br>
-  </a>
+  </a> -->
   <a href="#" title="Khanhthanhdev">
     <img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=khanhthanhdev&theme=tokyonight&hide_border=false">
     <br>
   </a>
-  <a href="#" title="Khanhthanhdev">
+<!--   <a href="#" title="Khanhthanhdev">
     <img width="400" src="https://stat-count.vercel.app/api/top-langs/?username=khanhthanhdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-  </a>
+  </a> -->
 </div>
 
 <br>
