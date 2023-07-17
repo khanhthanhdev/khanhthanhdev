@@ -48,9 +48,6 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="khanh
     thanhndev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/th%C3%A0nh-tr%E1%BA%A7n-53a83a232/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="khanhthanhdev-linkedin" />
-  </a>
   <a href="mailto:thanhkt27507@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="khanhthanhdev-email" />
   </a>
